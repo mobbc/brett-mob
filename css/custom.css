@@ -1,0 +1,9 @@
+#first{
+background-color: #000;
+color: white;
+background-repeat: no-repeat;
+background-image: url(http://images.apple.com/uk/music/images/overview/family_hero_medium.jpg);
+background-size: cover;
+padding-top: 200px;
+padding-bottom: 200px;
+}

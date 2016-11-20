@@ -1,0 +1,35 @@
+#first{
+background-color: #000;
+color: white;
+background-repeat: no-repeat;
+background-image: url(http://images.apple.com/uk/music/images/overview/family_hero_medium.jpg);
+background-size: cover;
+padding-top: 200px;
+padding-bottom: 200px;
+}
+
+#second{
+
+}
+
+#third{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b7df2d+0,ffffff+0,ffffff+40,ffffff+40,ffffff+43,ffffff+43,cecece+79 */
+background: #b7df2d; /* Old browsers */
+background: -moz-linear-gradient(top,  #b7df2d 0%, #ffffff 0%, #ffffff 40%, #ffffff 40%, #ffffff 43%, #ffffff 43%, #cecece 79%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #b7df2d 0%,#ffffff 0%,#ffffff 40%,#ffffff 40%,#ffffff 43%,#ffffff 43%,#cecece 79%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #b7df2d 0%,#ffffff 0%,#ffffff 40%,#ffffff 40%,#ffffff 43%,#ffffff 43%,#cecece 79%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7df2d', endColorstr='#cecece',GradientType=0 ); /* IE6-9 */
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+#body{
+	background-image: url(http://blog.hostbaby.com/wp-content/uploads/2012/05/thumbnail_abstract.jpg);
+	
+	}
+
+.img-square{
+  height:  200px;
+}
